@@ -23,5 +23,4 @@ git reset --hard <commit_id>
 
 git checkout -- file
 
-Creating a new branch is quick.
 Creating a new branch is quick & simple.
